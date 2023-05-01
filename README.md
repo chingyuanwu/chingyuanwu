@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chingyuanwu
 - 👀 I’m interested in web develop.
-- 🌱 I’m currently learning html. css. js.
+- 🌱 I’m currently learning html. css. js. python
 - 💞️ I’m just getting started.
 - 📫 See you.
 
